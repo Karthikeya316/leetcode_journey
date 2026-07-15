@@ -24,3 +24,11 @@ LeetCode solutions in C++ documenting my DSA learning journey, including optimiz
 
 🎯 Goal
 Solve 500+ LeetCode problems while strengthening problem-solving skills for software engineering and AI roles.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+<!---LeetCode Topics End-->
