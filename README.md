@@ -31,4 +31,5 @@ Solve 500+ LeetCode problems while strengthening problem-solving skills for soft
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
