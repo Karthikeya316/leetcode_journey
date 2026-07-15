@@ -32,6 +32,7 @@ Solve 500+ LeetCode problems while strengthening problem-solving skills for soft
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +41,16 @@ Solve 500+ LeetCode problems while strengthening problem-solving skills for soft
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Karthikeya316/leetcode_journey/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
